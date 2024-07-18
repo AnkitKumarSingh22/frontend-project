@@ -510,7 +510,7 @@ nav ul li a{
    
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("./files/contact.jpg");
+    background-image: url("contact.jpg");
     background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
@@ -587,7 +587,7 @@ nav ul li a{
     
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("./files/register.jpg");
+    background-image: url("register.jpg");
     background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
